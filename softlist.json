@@ -1,209 +1,22 @@
 [
     {
-        "name": "腾讯QQ",
-        "desc": "经典即时聊天工具",
-        "url": "https://dldir1.qq.com/qqfile/qq/PCQQ9.9.15/26261/QQ9.9.15.26261.exe",
-        "saveName": "QQ.exe",
-        "size": "89MB",
-        "update": "2026-04-10",
-        "category": "chat"
-    },
-    {
-        "name": "微信PC版",
-        "desc": "微信电脑客户端",
+        "name": "微信",
+        "category": "chat",
+        "logo": "https://lsw-fast.lenovo.com.cn/appstore/apps/adp/logo/9547-2025-10-22022331-1761114211423.gif",
         "url": "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe",
-        "saveName": "微信PC版.exe",
-        "size": "135MB",
-        "update": "2026-04-10",
-        "category": "chat"
+        "size": "200MB",
+        "update": "2025-01-01",
+        "desc": "腾讯微信电脑版",
+        "saveName": "WeChatSetup.exe"
     },
     {
-        "name": "钉钉",
-        "desc": "办公聊天协作软件",
-        "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_installer/Release/DingTalkSetup.exe",
-        "saveName": "钉钉.exe",
-        "size": "142MB",
-        "update": "2026-04-05",
-        "category": "chat"
-    },
-    {
-        "name": "飞书",
-        "desc": "企业办公沟通工具",
-        "url": "https://www.feishu.cn/api/downloads/feishusetup.exe",
-        "saveName": "飞书.exe",
-        "size": "153MB",
-        "update": "2026-04-05",
-        "category": "chat"
-    },
-    {
-        "name": "TIM",
-        "desc": "QQ办公简洁版",
-        "url": "https://dldir1.qq.com/qqfile/qq/TIM3.0.0/TIM3.0.0.exe",
-        "saveName": "TIM.exe",
-        "size": "72MB",
-        "update": "2026-03-20",
-        "category": "chat"
-    },
-    {
-        "name": "向日葵远程",
-        "desc": "国产远程控制工具",
-        "url": "https://dl-cdn.oray.com/sunlogin/windows/SunloginClient.exe",
-        "saveName": "向日葵远程.exe",
-        "size": "46MB",
-        "update": "2026-04-01",
-        "category": "remote"
-    },
-    {
-        "name": "ToDesk",
-        "desc": "流畅远程桌面",
-        "url": "https://dl.todesk.com/windows/ToDesk_Setup.exe",
-        "saveName": "ToDesk.exe",
-        "size": "31MB",
-        "update": "2026-04-10",
-        "category": "remote"
-    },
-    {
-        "name": "RustDesk",
-        "desc": "开源免费远程工具",
-        "url": "https://github.com/rustdesk/rustdesk/releases/download/1.2.6/rustdesk-1.2.6-x86_64.exe",
-        "saveName": "RustDesk.exe",
-        "size": "22MB",
-        "update": "2026-04-01",
-        "category": "remote"
-    },
-    {
-        "name": "TeamViewer",
-        "desc": "国际远程控制软件",
-        "url": "https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe",
-        "saveName": "TeamViewer.exe",
-        "size": "57MB",
-        "update": "2026-04-01",
-        "category": "remote"
-    },
-    {
-        "name": "谷歌浏览器",
-        "desc": "Chrome 高速浏览器",
-        "url": "https://dl.google.com/tag/s/dl/chrome/install/googlechromestandaloneenterprise64.msi",
-        "saveName": "Chrome浏览器.msi",
-        "size": "118MB",
-        "update": "2026-04-10",
-        "category": "common"
-    },
-    {
-        "name": "Edge浏览器",
-        "desc": "微软官方Edge",
-        "url": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/67c1f8a9-694d-4494-b929-924c7d7d39f6/MicrosoftEdgeSetup.exe",
-        "saveName": "Edge浏览器.exe",
-        "size": "165MB",
-        "update": "2026-04-10",
-        "category": "common"
-    },
-    {
-        "name": "WPS Office",
-        "desc": "免费办公套件",
-        "url": "https://wps.oss.aliyuncs.com/download/WPS_Setup.exe",
-        "saveName": "WPS Office.exe",
-        "size": "185MB",
-        "update": "2026-04-01",
-        "category": "common"
-    },
-    {
-        "name": "Bandizip",
-        "desc": "无广告解压软件",
-        "url": "https://dl.bandisoft.com/bandizip/std/BandizipSetup.exe",
-        "saveName": "Bandizip解压.exe",
-        "size": "13MB",
-        "update": "2026-03-15",
-        "category": "common"
-    },
-    {
-        "name": "火绒安全",
-        "desc": "轻量杀毒防护",
-        "url": "https://down.huorong.cn/hrsd-5.0.75.0.exe",
-        "saveName": "火绒安全.exe",
-        "size": "23MB",
-        "update": "2026-04-01",
-        "category": "common"
-    },
-    {
-        "name": "百度网盘",
-        "desc": "大容量云盘存储",
-        "url": "https://issuecdn.baidupcs.com/issue/netdisk/yunguanjia/BaiduNetdisk.exe",
-        "saveName": "百度网盘.exe",
-        "size": "98MB",
-        "update": "2026-04-01",
-        "category": "common"
-    },
-    {
-        "name": "网易云音乐",
-        "desc": "高品质音乐播放器",
-        "url": "https://d1.music.126.net/dmusic/CloudMusic_official_1.2.50_10058.exe",
-        "saveName": "网易云音乐.exe",
-        "size": "112MB",
-        "update": "2026-04-01",
-        "category": "music"
-    },
-    {
-        "name": "QQ音乐",
-        "desc": "腾讯正版音乐库",
-        "url": "https://dldir1.qq.com/music/clntupate/QQMusicSetup.exe",
-        "saveName": "QQ音乐.exe",
-        "size": "123MB",
-        "update": "2026-04-01",
-        "category": "music"
-    },
-    {
-        "name": "酷狗音乐",
-        "desc": "老牌音乐播放器",
-        "url": "https://downmini.kugou.com/KuGouSetup.exe",
-        "saveName": "酷狗音乐.exe",
-        "size": "68MB",
-        "update": "2026-03-20",
-        "category": "music"
-    },
-    {
-        "name": "爱奇艺",
-        "desc": "热门影视播放器",
-        "url": "https://static.iqiyi.com/ext/iqiyi/iqiyi_setup.exe",
-        "saveName": "爱奇艺.exe",
-        "size": "82MB",
-        "update": "2026-03-10",
-        "category": "video"
-    },
-    {
-        "name": "腾讯视频",
-        "desc": "腾讯影视客户端",
-        "url": "https://dldir1.qq.com/qqtv/TencentVideoSetup.exe",
-        "saveName": "腾讯视频.exe",
-        "size": "91MB",
-        "update": "2026-04-01",
-        "category": "video"
-    },
-    {
-        "name": "芒果TV",
-        "desc": "芒果卫视影视",
-        "url": "https://download.mgtv.com/client/pc/windows/MGTV_Setup.exe",
-        "saveName": "芒果TV.exe",
-        "size": "76MB",
-        "update": "2026-03-15",
-        "category": "video"
-    },
-    {
-        "name": "迅雷11",
-        "desc": "下载工具",
-        "url": "https://down.sandai.net/thunder11/XunLeiSetup.exe",
-        "saveName": "迅雷11.exe",
-        "size": "71MB",
-        "update": "2026-03-20",
-        "category": "common"
-    },
-    {
-        "name": "剪映专业版",
-        "desc": "免费视频剪辑",
-        "url": "https://lf1-capcut-client.bytedance.com/obj/ies-h265-capcut-resource/CapCut_Installer.exe",
-        "saveName": "剪映专业版.exe",
-        "size": "215MB",
-        "update": "2026-04-01",
-        "category": "common"
+        "name": "QQ",
+        "category": "chat",
+        "logo": "https://lsw-fast.lenovo.com.cn/appstore/normal/apps/2347-2020-05-21053954-1590053994120.png",
+        "url": "https://dldir1.qq.com/qqfile/qq/QQNT/QQSetup.exe",
+        "size": "180MB",
+        "update": "2025-01-10",
+        "desc": "腾讯QQ新版PC客户端",
+        "saveName": "QQSetup.exe"
     }
 ]
